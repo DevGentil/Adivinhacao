@@ -11,7 +11,6 @@
 body {
     background: linear-gradient(287.56deg, #044a6b 0%, #031f4d 100%);
     font-size: 1.6rem;
-
     display: grid;
     place-items: center;
     height: 100vh;
@@ -28,7 +27,6 @@ button {
     font-weight: bold;
     border-radius: 0 .4rem .4rem 0;
     cursor: pointer;
-
     transition: background .3s;
 }
 
@@ -45,11 +43,8 @@ main {
     box-shadow: 0 .2rem .4rem rgba(0, 0, 0, 0.1);
     border-radius: .6rem;
     padding: 4.8rem 6.4rem 6.4rem;
-
     width: min(42.8rem, 90%);
-
     margin-top: -12rem;
-
     text-align: center;
 }
 
@@ -84,9 +79,6 @@ input {
     width: 6rem;
     border-radius: .4rem 0 0 .4rem;
 }
-
-
-
 /*screen2*/
 h2 {
     font-size: 2.4rem;
