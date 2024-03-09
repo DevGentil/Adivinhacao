@@ -23,5 +23,4 @@ Este é um simples jogo de adivinhação de números, desenvolvido com HTML, CSS
 
 (https://devgentil.github.io/Adivinhacao/)
 
-```bash
-git clone https://github.com/DevGentil/jogo-adivinhacao.git
+Feito com ❤️ por [DevGentil](https://github.com/DevGentil).
